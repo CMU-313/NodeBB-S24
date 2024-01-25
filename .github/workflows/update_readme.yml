@@ -24,6 +24,7 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
+          push_options: '--force'
           commit_user_name: activity-action 🤖
           commit_user_email: actions@github.com
           commit_author: activity-action 🤖 <actions@github.com>
